@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22e474a2-cb34-4507-99df-5dc5dcb6a243" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node-init.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/mime" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/mime.ps1" afterDir="false" />
@@ -337,9 +330,8 @@
       <change afterPath="$PROJECT_DIR$/node_modules/vary/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/vary/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/vary/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -387,17 +379,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578840481041</updated>
-      <workItem from="1578840482206" duration="35000" />
+      <workItem from="1578840482206" duration="189000" />
+      <workItem from="1578840995507" duration="169000" />
     </task>
+    <task id="LOCAL-00001" summary="Creating structure.">
+      <created>1578840609974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578840609974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creating structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating structure." />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="905" y="115" key="CommitChangelistDialog2" timestamp="1578840587850">
+    <state x="905" y="115" key="CommitChangelistDialog2" timestamp="1578840605704">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="905" y="115" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578840587850" />
+    <state x="905" y="115" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578840605704" />
+    <state x="781" y="163" key="SettingsEditor" timestamp="1578840695804">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="163" key="SettingsEditor/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578840695804" />
+    <state x="872" y="254" key="Vcs.Push.Dialog.v2" timestamp="1578840611697">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="872" y="254" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578840611697" />
   </component>
 </project>
