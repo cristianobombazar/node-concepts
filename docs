@@ -34,3 +34,7 @@ npm install require-dir
 
 // add pagination support for mongoose
 npm install mongoose-paginate
+
+
+// add cors support.
+npm install cors

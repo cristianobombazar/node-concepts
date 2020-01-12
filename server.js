@@ -1,10 +1,12 @@
 const express = require('express');
+const cors = require('cors');
 const mongoose = require('mongoose');
 const requireDir = require('require-dir');
 
 // STARTING  APP
 const app = express();
 app.use(express.json()); // ALLOW TO SEND JSON OBJECTS.
+app.use(cors());
 
 
 
