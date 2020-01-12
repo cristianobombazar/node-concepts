@@ -25,3 +25,6 @@ docker pull mongo
 
 // run docker mongodb
 docker run --name mongodbnodeinit -p 27017:27017 -d mongo
+
+// connect to database
+npm install mongoose
