@@ -9,21 +9,10 @@ const app = express();
 mongoose.connect('mongodb://localhost:27017/nodeinit',
                  {useNewUrlParser: true}
 );
-
 requireDir('src/models');
 
-const product = mongoose.model('Product');
+//ROUTES
+app.use('/api', require('./src/Routes'))
 
-
-// CREATING ROUTE
-app.get('/', (req, res) => {
-    product.create({
-        title: 'React Native',
-        description: 'Build Native app with reactive',
-        url: 'https://github.com/facebook/react-native'
-    })
-    return res.send('Hello Rocketseat');
-});
-
-
+//SERVER
 app.listen(3001);
