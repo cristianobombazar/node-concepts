@@ -4,6 +4,9 @@ const requireDir = require('require-dir');
 
 // STARTING  APP
 const app = express();
+app.use(express.json()); // ALLOW TO SEND JSON OBJECTS.
+
+
 
 // STARTING DB
 mongoose.connect('mongodb://localhost:27017/nodeinit',

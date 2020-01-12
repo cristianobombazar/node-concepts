@@ -330,10 +330,11 @@
       <change afterPath="$PROJECT_DIR$/node_modules/vary/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/vary/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/vary/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/ProductController.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs" beforeDir="false" afterPath="$PROJECT_DIR$/docs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/ProductController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/ProductController.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -395,7 +396,7 @@
       <updated>1578840481041</updated>
       <workItem from="1578840482206" duration="189000" />
       <workItem from="1578840995507" duration="729000" />
-      <workItem from="1578842550722" duration="3246000" />
+      <workItem from="1578842550722" duration="4056000" />
     </task>
     <task id="LOCAL-00001" summary="Creating structure.">
       <created>1578840609974</created>
@@ -439,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578844770748</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Organizing files.">
+      <created>1578848799452</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578848799452</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,21 +460,22 @@
     <MESSAGE value="Add mongodb." />
     <MESSAGE value="Installing mongoose." />
     <MESSAGE value="Creating model product" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating model product" />
+    <MESSAGE value="Organizing files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Organizing files." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="905" y="115" key="CommitChangelistDialog2" timestamp="1578844766443">
+    <state x="905" y="115" key="CommitChangelistDialog2" timestamp="1578849597503">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="905" y="115" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578844766443" />
+    <state x="905" y="115" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578849597503" />
     <state x="781" y="163" key="SettingsEditor" timestamp="1578840695804">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="781" y="163" key="SettingsEditor/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578840695804" />
-    <state x="872" y="254" key="Vcs.Push.Dialog.v2" timestamp="1578844786107">
+    <state x="872" y="254" key="Vcs.Push.Dialog.v2" timestamp="1578848802187">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="872" y="254" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578844786107" />
+    <state x="872" y="254" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578848802187" />
     <state x="1089" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578844747539">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
