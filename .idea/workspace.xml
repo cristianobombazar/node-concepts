@@ -331,6 +331,9 @@
       <change afterPath="$PROJECT_DIR$/node_modules/vary/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/vary/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs" beforeDir="false" afterPath="$PROJECT_DIR$/docs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -341,6 +344,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Cristiano Bombazar &lt;cristiaano.bombazar@gmail.com&gt;" />
         <option value="cristiaano.bombazar@gmail.com" />
       </list>
     </option>
@@ -355,6 +359,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="ServiceViewManager">
@@ -380,7 +385,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578840481041</updated>
       <workItem from="1578840482206" duration="189000" />
-      <workItem from="1578840995507" duration="169000" />
+      <workItem from="1578840995507" duration="433000" />
     </task>
     <task id="LOCAL-00001" summary="Creating structure.">
       <created>1578840609974</created>
@@ -389,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578840609974</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creating route.">
+      <created>1578841256591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578841256591</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,20 +409,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating structure." />
+    <MESSAGE value="Creating route." />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating route." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="905" y="115" key="CommitChangelistDialog2" timestamp="1578840605704">
+    <state x="905" y="115" key="CommitChangelistDialog2" timestamp="1578841462200">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="905" y="115" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578840605704" />
+    <state x="905" y="115" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578841462200" />
     <state x="781" y="163" key="SettingsEditor" timestamp="1578840695804">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="781" y="163" key="SettingsEditor/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578840695804" />
-    <state x="872" y="254" key="Vcs.Push.Dialog.v2" timestamp="1578840611697">
+    <state x="872" y="254" key="Vcs.Push.Dialog.v2" timestamp="1578841258595">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="872" y="254" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578840611697" />
+    <state x="872" y="254" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1578841258595" />
   </component>
 </project>

@@ -8,5 +8,13 @@ npm init -y
 //install express
 npm install express
 
-
 // add server.js (main file)
+
+//START PROJECT
+npm server.js
+
+//add nodemon (live reload) -D means "dev"
+npm install -D nodemon
+
+// START PROJECT AFTER NODEMON
+npm run dev
