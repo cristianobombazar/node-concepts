@@ -18,3 +18,10 @@ npm install -D nodemon
 
 // START PROJECT AFTER NODEMON
 npm run dev
+
+
+// download mongodb via docker
+docker pull mongo
+
+// run docker mongodb
+docker run --name mongodbnodeinit -p 27017:27017 -d mongo
