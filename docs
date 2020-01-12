@@ -1,0 +1,12 @@
+// install chocolatey for package-manager SEE STEP BY STEP FROM DOCS.
+https://chocolatey.org/install
+
+
+//init project
+npm init -y
+
+//install express
+npm install express
+
+
+// add server.js (main file)
