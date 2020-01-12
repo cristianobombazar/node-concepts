@@ -32,3 +32,5 @@ npm install mongoose
 // REQUIRE ALL DIRECTORY DEPENDENCY
 npm install require-dir
 
+// add pagination support for mongoose
+npm install mongoose-paginate

@@ -6,6 +6,11 @@ module.exports = {
         const products = await product.find();
         return res.json(products);
     },
+    async indexByPage(req, res) {
+        const {page= 1, limit} = req.query;
+        const products = await product.paginate({}, {page, limit: 10});
+        return res.json(products);
+    },
     async show(req, res) {
         const productReturned = await product.findById(req.params.id);
         return res.json(productReturned);
